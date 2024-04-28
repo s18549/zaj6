@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\KnightM4are\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\KnightM4are\\.nuget\\packages"
+    ]
+  }
+}
